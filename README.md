@@ -31,18 +31,17 @@ A voice assistant for your computer. You talk to it, it does things for you.
 * **Built with Python, PyQt5, SpeechRecognition, and pyttsx3. Works offline for basic commands, requires internet for voice recognition. Saves user preferences in a local config file.**
 
 ## How to install?
-Windows
+**Windows**
 
 Download Python from python.org
-
 Run the installer, check "Add Python to PATH", click Install
-
 Open Command Prompt: press Win+R, type cmd, press Enter
 Type and press Enter:
 <text>pip install PyQt5 pyttsx3 SpeechRecognition pyaudio pyautogui<text>
 Save the file (dzhenya.py) and run
 
 **macOS**
+
 Open Terminal: press Cmd+Space, type Terminal, press Enter
 Install Homebrew (if not installed):
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -61,6 +60,7 @@ Click Microphone
 Enable Terminal
 
 **Linux (Ubuntu / Debian)**
+
 Open Terminal: press Ctrl+Alt+T
 Update and install requirements:
 <text>sudo apt update
@@ -72,44 +72,23 @@ Run:
 <text>python3 dzhenya.py<text>
 
 **Linux (Fedora)**
+
 Open Terminal
 Install requirements:
 <text>sudo dnf install python3 python3-pip python3-qt5 portaudio-devel
-
-    Install Python packages:
-
-text
-
-pip3 install pyttsx3 SpeechRecognition pyaudio pyautogui
-
-    Save the assistant code as dzhenya.py
-
-    Run:
-
-text
-
+Install Python packages:
+<text>pip3 install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+Save the assistant file as dzhenya.py
+Run:
 <text>python3 dzhenya.py<text>
 
-Linux (Arch)
+**Linux (Arch)**
 
-    Open Terminal
-
-    Install requirements:
-
-text
-
-sudo pacman -S python python-pip python-pyqt5 portaudio
-
-    Install Python packages:
-
-text
-
-pip install pyttsx3 SpeechRecognition pyaudio pyautogui
-
-    Save the assistant code as dzhenya.py
-
-    Run:
-
-text
-
-python dzhenya.py
+Open Terminal
+Install requirements:
+<text>sudo pacman -S python python-pip python-pyqt5 portaudio<text>
+Install Python packages:
+<text>pip install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+Save the assistant file as dzhenya.py
+Run:
+<text>python dzhenya.py<text>
