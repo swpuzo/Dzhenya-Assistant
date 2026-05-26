@@ -110,9 +110,9 @@ Run:
 Open Terminal
 
 Install requirements:
-
-<text>sudo dnf install python3 python3-pip python3-qt5 portaudio-devel
-
+```markdown
+sudo dnf install python3 python3-pip python3-qt5 portaudio-devel
+```markdown
 Install Python packages:
 
 <text>pip3 install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
@@ -140,3 +140,11 @@ Save the assistant file as dzhenya.py
 Run:
 
 <text>python dzhenya.py<text>
+
+
+## 9. Добавьте бейджи в README
+
+```markdown
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
