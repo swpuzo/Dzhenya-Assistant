@@ -34,7 +34,9 @@ A voice assistant for your computer. You talk to it, it does things for you.
 * **"Time" / "Date" / "Weather" / "Joke"**
 
 ## Technical:
-* **Built with Python, PyQt5, SpeechRecognition, and pyttsx3. Works offline for basic commands, requires internet for voice recognition. Saves user preferences in a local config file.**
+* **Built with Python, PyQt5, SpeechRecognition, and pyttsx3.**
+* **Works offline for basic commands, requires internet for voice recognition.**
+* **Saves user preferences in a local config file.**
 
 ## How to install?
 ### Windows
