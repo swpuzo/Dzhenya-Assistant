@@ -93,8 +93,8 @@ python3 dzhenya.py
 
 **Update and install requirements:**
 ```markdowm
-sudo apt update ```
-```markdown
+sudo apt update
+
 sudo apt install python3 python3-pip python3-pyqt5 portaudio19-dev
 ```
 **Install Python packages:**
