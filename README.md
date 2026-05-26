@@ -2,7 +2,7 @@
 A voice assistant for your computer. You talk to it, it does things for you.
 
 ## Logo
-<img width="1024" height="1024" alt="dzhenya" src="https://github.com/user-attachments/assets/32111484-32fb-4d2d-9aea-0d9f216bf272" />
+<img width="400" height="400" alt="dzhenya" src="https://github.com/user-attachments/assets/32111484-32fb-4d2d-9aea-0d9f216bf272" />
 
 ## Screenshot
 <img width="1059" height="736" alt="Снимок экрана 2026-05-25 224626" src="https://github.com/user-attachments/assets/5dfab6ad-81b8-4d3d-93a2-49465dfe343f" />
