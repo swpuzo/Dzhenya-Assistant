@@ -5,7 +5,7 @@ A voice assistant for your computer. You talk to it, it does things for you.
 <img width="400" height="400" alt="dzhenya" src="https://github.com/user-attachments/assets/32111484-32fb-4d2d-9aea-0d9f216bf272" />
 
 ## Screenshot
-<img width="1059" height="736" alt="Снимок экрана 2026-05-25 224626" src="https://github.com/user-attachments/assets/5dfab6ad-81b8-4d3d-93a2-49465dfe343f" />
+<img width="1029" height="684" alt="Снимок экрана 2026-05-26 171350" src="https://github.com/user-attachments/assets/9c4e87b8-618d-4352-a196-a322e6566e7d" />
 
 ## Works on:
 * **Windows** - everything works perfectly
