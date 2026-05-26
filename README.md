@@ -40,10 +40,15 @@ A voice assistant for your computer. You talk to it, it does things for you.
 **Windows**
 
 Download Python from python.org
+
 Run the installer, check "Add Python to PATH", click Install
+
 Open Command Prompt: press Win+R, type cmd, press Enter
+
 Type and press Enter:
-<text>pip install PyQt5 pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+
+<text>pip install PyQt5 speechrecognition pyttsx3 pyautogui pyaudio pywin32 winshell pypiwin32<text>
+
 Save the file (dzhenya.py) and run
 
 **macOS**
@@ -86,9 +91,9 @@ Open Terminal: press Ctrl+Alt+T
 
 Update and install requirements:
 
-<text>sudo apt update
+<text>sudo apt update<text>
 
-sudo apt install python3 python3-pip python3-pyqt5 portaudio19-dev<text>
+<text>sudo apt install python3 python3-pip python3-pyqt5 portaudio19-dev<text>
 
 Install Python packages:
 
