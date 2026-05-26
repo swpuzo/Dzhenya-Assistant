@@ -49,52 +49,89 @@ Save the file (dzhenya.py) and run
 **macOS**
 
 Open Terminal: press Cmd+Space, type Terminal, press Enter
+
 Install Homebrew (if not installed):
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 Install Python and audio support:
+
 <text>brew install python3 portaudio<text>
+
 Install the required packages:
+
 <text>pip3 install PyQt5 pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+
 Save the assistant file to your Desktop as dzhenya.py
+
 In Terminal
+
 <text>cd Desktop
+
 python3 dzhenya.py<text>
+
 When asked, allow microphone access:
+
 Open System Settings:
+
 Go to Privacy & Security
+
 Click Microphone
+
 Enable Terminal
 
 **Linux (Ubuntu / Debian)**
 
 Open Terminal: press Ctrl+Alt+T
+
 Update and install requirements:
+
 <text>sudo apt update
+
 sudo apt install python3 python3-pip python3-pyqt5 portaudio19-dev<text>
+
 Install Python packages:
+
 <text>pip3 install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+
 Save the assistant file to your home folder as dzhenya.py
+
 Run:
+
 <text>python3 dzhenya.py<text>
 
 **Linux (Fedora)**
 
 Open Terminal
+
 Install requirements:
+
 <text>sudo dnf install python3 python3-pip python3-qt5 portaudio-devel
+
 Install Python packages:
+
 <text>pip3 install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+
 Save the assistant file as dzhenya.py
+
 Run:
+
 <text>python3 dzhenya.py<text>
 
 **Linux (Arch)**
 
 Open Terminal
+
 Install requirements:
+
 <text>sudo pacman -S python python-pip python-pyqt5 portaudio<text>
+
 Install Python packages:
+
 <text>pip install pyttsx3 SpeechRecognition pyaudio pyautogui<text>
+
 Save the assistant file as dzhenya.py
+
 Run:
+
 <text>python dzhenya.py<text>
