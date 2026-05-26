@@ -41,7 +41,7 @@ A voice assistant for your computer. You talk to it, it does things for you.
 ## How to install?
 ### Windows
 
-**Download Python from python.org**
+**Download Python from <link>python.org<link>**
 
 **Run the installer, check "Add Python to PATH", click Install.**
 
