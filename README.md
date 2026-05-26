@@ -73,7 +73,7 @@ In Terminal
 ```markdown
 cd Desktop
 
-python3 dzhenya.py<text>
+python3 dzhenya.py
 ```
 When asked, allow microphone access:
 
